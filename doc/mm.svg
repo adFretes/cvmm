@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Borde dorado de la medalla -->
+  <ellipse cx="50" cy="50" rx="44" ry="48" fill="#FDE047" stroke="#CA8A04" stroke-width="4"/>
+  
+  <!-- Fondo interior azul -->
+  <ellipse cx="50" cy="50" rx="37" ry="41" fill="#3B82F6"/>
+  
+  <!-- Resplandor tenue (halo) -->
+  <circle cx="50" cy="28" r="10" fill="#FEF08A" opacity="0.4"/>
+  
+  <!-- Silueta minimalista de la Virgen María -->
+  <circle cx="50" cy="28" r="6" fill="#FFFFFF"/>
+  <path d="M50 35 C 38 45, 32 65, 32 80 C 40 85, 60 85, 68 80 C 68 65, 62 45, 50 35 Z" fill="#FFFFFF"/>
+  
+  <!-- Rayos de gracia desde las manos -->
+  <path d="M38 55 L 18 62 M36 62 L 20 74 M62 55 L 82 62 M64 62 L 80 74" stroke="#FEF08A" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
